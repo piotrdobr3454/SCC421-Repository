@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MigrationFormApp.MObject" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAEAAAABAAAAAAAA=</HashCode>
+      <FileName>MigrationClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MigrationFormApp.MSlide" Collapsed="true">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>MigrationClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MigrationFormApp.MShape" Collapsed="true">
+    <Position X="8.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>MigrationClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MigrationFormApp.MParams" Collapsed="true">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAIAEAICAAEAAAAAICEAACQAIAAABAAA=</HashCode>
+      <FileName>MigrationClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MigrationFormApp.MFill" Collapsed="true">
+    <Position X="10.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAACAAEAAAQAAAAABAAA=</HashCode>
+      <FileName>MigrationClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MigrationFormApp.MLine" Collapsed="true">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAAgAAAAAAAABAAAACACCAAEAABAQAAQAABAA=</HashCode>
+      <FileName>MigrationClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MigrationFormApp.MTags" Collapsed="true">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>MigrationClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
